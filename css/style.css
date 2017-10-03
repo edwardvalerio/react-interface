@@ -1,0 +1,16 @@
+body {
+
+    background: #fff;
+    margin: 0px;
+
+
+}
+
+#main-container {
+
+    margin: auto;
+    max-width: 990px;
+    margin-top: 15px;
+    border: 1px solid #cdcdcd;
+    min-height: 250px;
+}
